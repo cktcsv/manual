@@ -1,0 +1,2 @@
+capacitor,element,terminal,control_type,pt_ratio,ct_ratio,off_setting,on_setting,delay,dead_time,ct_phase,pt_phase,pct_min_kvar
+c1,line.line3,1,current,60,1,55,60,2,300,1,1,50

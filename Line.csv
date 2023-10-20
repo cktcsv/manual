@@ -1,0 +1,4 @@
+name,enabled,n_phases,n_conds,base_freq,terminal1,terminal2,length,units,line_code,geometry
+line1,true,3,3,60,subbus,loadbus1,10,none,336matrix,
+line2,true,3,3,60,loadbus1,loadbus2,10,none,336matrix,
+line3,true,3,3,60,loadbus2,loadbus3,20,none,336matrix,

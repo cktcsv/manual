@@ -1,0 +1,2 @@
+name,enabled,n_phases,n_conds,base_freq,terminal1,terminal2,connection,num_steps,spec_type,kvar,kv,c,r,xl
+c1,true,3,3,60,loadbus2,,wye,1,kvar,[ 600 ],12.47,[ 0.00001023498533396816 ],[ 0 ],[ 0 ]
