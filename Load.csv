@@ -1,3 +1,4 @@
 name,enabled,n_phases,n_conds,base_freq,terminal1,kv,kw,kvar,kva,pf,model,vmin_pu,vmax_pu,r_neut,x_neut,connection,spec_type,status,yearly,daily,duty,spectrum
-load1,true,3,4,60,loadbus1,12.47,1000,539.7428221380873,1136.363636363636,0.88,pq,0.95,1.05,-1,0,wye,kw_pf,fixed,year,day,,defaultload
-load2,true,3,3,60,loadbus2,12.47,500,269.8714110690436,568.1818181818182,0.88,pq,0.95,1.05,-1,0,delta,kw_pf,fixed,year,day,,defaultload
+load1,true,3,4,60,genbus1,0.48,1000,539.7428221380873,1136.363636363636,0.88,pq,0.95,1.05,-1,0,wye,kw_pf,fixed,,,,defaultload
+load2,true,3,4,60,genbus2,0.48,1000,539.7428221380873,1136.363636363636,0.88,pq,0.95,1.05,-1,0,wye,kw_pf,fixed,,,,defaultload
+load3,true,3,4,60,genbus3,0.48,1000,539.7428221380873,1136.363636363636,0.88,pq,0.95,1.05,-1,0,wye,kw_pf,fixed,,,,defaultload

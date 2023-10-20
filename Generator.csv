@@ -1,2 +1,0 @@
-name,enabled,n_phases,n_conds,base_freq,terminal,kv,kw,pf,model,connection,duty,fixed,v_min_pu,v_max_pu,max_kvar,min_kvar,balanced,spectrum
-gen1,true,3,3,60,regbus,12.47,8000,1,kw_pf,delta,wind,false,0.9,1.1,0,0,false,defaultgen

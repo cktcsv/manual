@@ -1,4 +1,4 @@
 name,enabled,element,terminal,value,sequence,magnitude,pos_seq,residual,p_polar
-gen1a,true,generator.gen1,1,voltage_current,true,true,false,false,true
-line3,true,line.line3,1,voltage_current,true,true,false,false,true
-gen1,true,generator.gen1,1,voltage_current,false,true,false,false,true
+tr1,true,transformer.tr1,2,voltage_current,false,true,false,false,true
+tr2,true,transformer.tr2,2,voltage_current,false,true,false,false,true
+tr3,true,transformer.tr3,2,voltage_current,false,true,false,false,true

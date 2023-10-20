@@ -1,3 +1,5 @@
 name,enabled,n_phases,n_conds,base_freq,x_hl,x_ht,x_lt,pct_load_loss,ppm_anti_float
 sub,true,3,4,60,0.07000000000000001,0.35,0.3,0.4,1E-6
-reg1,true,3,4,60,0.01,0.35,0.3,0.4,1E-6
+tr1,true,3,4,60,0.06,0.35,0.3,0.4,1E-6
+tr2,true,3,4,60,0.06,0.35,0.3,0.4,1E-6
+tr3,true,3,4,60,0.06,0.35,0.3,0.4,1E-6
